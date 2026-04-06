@@ -1,0 +1,31 @@
+date	content_type	prompt_version	score	status	reasoning
+2026-04-06T19:23:54.812Z	pages	default	81	keep	**Overall Assessment:** The draft is a strong, professional piece that closely mirrors the gold standard's structural requirements and hits most of the key criteria well. Here is the breakdown by criterion:
+
+---
+
+**Credibility (30 pts) — ~24/30**
+The draft establishes credibility effectively: it references Almedalen participation since 2012, dialogue with the government chancellery (regeringskansliet), IT-standardiseringsrådet, E-legitimationsnämnden, and the European Open Source Consortium (EOS) with 15 countries. It cites a real EU study (though without a specific citation/link, which weakens it slightly). The mention of Redpill Linpro as a co-founder of EOS adds specificity. However, the StatBar contains one weak entry ("100% – Fokus på öppen källkod") which feels like filler rather than a real credibility signal — a missed opportunity for a concrete membership count or policy win. The LogoGrid only lists two members, which may undermine the sense of a broad coalition.
+
+---
+
+**Accuracy (25 pts) — ~20/25**
+The factual claims are largely plausible and internally consistent: EOS founded in 2024, 15 European countries, Almedalen since 2012. The EU study reference is real but vague (no title, year, or author). The "100%" stat is not a real data point. The description of EOS and Redpill Linpro's role is specific and appears accurate. No obvious factual errors, but the lack of sourcing on the EU study and the placeholder-feeling stat reduce the score.
+
+---
+
+**Tone (20 pts) — ~17/20**
+The tone is consistently professional, authoritative, and appropriate for a serious industry association. Swedish is fluent and natural throughout. Phrases like "de rum där besluten fattas" and "formar den digitala infrastrukturen" are evocative without being hyperbolic. The CTA is confident without being pushy. Minor issue: "Bli en del av rörelsen" (Join the movement) edges slightly toward activist/NGO language rather than industry association language, but it's a minor concern.
+
+---
+
+**Structure (15 pts) — ~13/15**
+All five required components are present: Hero, StatBar, LogoGrid, PostList, CTA. The frontmatter is well-formed and maps cleanly to the template. The body content flows logically from mission → rationale → European context → members → news → CTA. Section headers are clear. The use of MDX component tags (`<LogoGrid />`, `<PostList />`, `<CTA />`) is appropriate. Minor deduction: the body text partially duplicates the hero/frontmatter content, which could be tightened.
+
+---
+
+**Conciseness (10 pts) — ~7/10**
+The draft is somewhat verbose for a homepage. The body runs across five sections with considerable overlap (e.g., the mission is stated in the hero, the description, and again in the opening body paragraph). A homepage should be scannable; some of this prose belongs in an "About" page. The "Varför öppen källkod spelar roll" section in particular reads more like an editorial than homepage copy. Trimming 20–30% would improve impact.
+
+---
+
+**Summary:** A well-executed draft that fulfills the structural brief, maintains a credible and professional Swedish tone, and includes specific, verifiable claims. Loses points for one weak StatBar entry, a vague EU study reference, minor verbosity, and slight duplication between frontmatter and body content.
