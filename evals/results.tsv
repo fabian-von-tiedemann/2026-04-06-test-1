@@ -320,3 +320,50 @@ The structure maps directly onto the gold standard: intro/hero text → Engageme
 
 **Conciseness (10 pts) → 8/10**
 The draft is reasonably concise given the amount of information conveyed. Each EngagementCard is tight and purposeful. The intro paragraph is slightly long (could trim 1–2 sentences). The CTA section is well-sized. Overall, the length is justified by the content requirements of an engagement page.
+2026-04-06T19:33:05.213Z	pages	default	93	keep	Let me evaluate the draft against the gold standard across the five criteria:
+
+**Gold Standard:**
+"Hero med rubrik Nyheter. Kort intro. PostList count=10."
+
+This describes:
+1. A Hero component with the title "Nyheter"
+2. A short intro text
+3. A PostList component with count=10
+
+**Draft:**
+```
+---
+title: "Nyheter"
+order: 5
+---
+
+<Hero title="Nyheter" />
+
+Här samlar vi nyheter om open source i Sverige.
+
+<PostList count={10} />
+```
+
+Now let me score each criterion:
+
+**1. Credibility (30 points)**
+The draft is a real, functional implementation. It includes proper frontmatter (title, order), a Hero component, an intro text in Swedish, and a PostList component. All elements are credible and technically sound. The frontmatter adds metadata that the gold standard doesn't explicitly mention but is a reasonable and professional addition. Full marks essentially. Score: 28/30
+
+**2. Accuracy (25 points)**
+- Hero with title "Nyheter" ✅ matches gold standard
+- Short intro text ✅ "Här samlar vi nyheter om open source i Sverige." is a short, relevant intro in Swedish
+- PostList count=10 ✅ matches exactly
+- All three required elements from the gold standard are present and correctly implemented. Score: 24/25
+
+**3. Tone (20 points)**
+The intro text "Här samlar vi nyheter om open source i Sverige." is clear, neutral, and appropriate for a news page. It's in Swedish as required. The tone is professional and informative. Score: 18/20
+
+**4. Structure (15 points)**
+The structure follows the gold standard perfectly: Hero → intro → PostList. The frontmatter is a logical addition. The order is correct. Score: 14/15
+
+**5. Conciseness (10 points)**
+The draft is concise. The intro is one short sentence. The components are minimal. The frontmatter adds necessary metadata without bloat. Score: 9/10
+
+**Total: 28 + 24 + 18 + 14 + 9 = 93/100**
+
+This is an excellent implementation that matches the gold standard very closely. The only minor deductions are for slight uncertainty about whether the intro text is exactly what was envisioned (it's good but could be slightly more specific or polished) and the tone being slightly generic. Overall, this is a very strong draft.
