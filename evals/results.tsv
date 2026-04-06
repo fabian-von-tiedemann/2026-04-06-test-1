@@ -188,3 +188,51 @@ The gold standard calls for: Hero with strong heading, StatBar showing membershi
 - Total: 83/100
 
 The main deduction is the missing member quote (explicitly called for in gold standard), slight verbosity, and the redundant CTA/email at the end. Otherwise this is a high-quality draft that closely matches the gold standard's intent.
+2026-04-06T19:29:38.775Z	pages	default	91	keep	Let me evaluate the draft against the gold standard across the five dimensions:
+
+**Gold Standard:** "Hero med stark rubrik, StatBar med nyckeltal, kort brödtext, LogoGrid, PostList, CTA mot bli-medlem."
+
+This describes a page structure with: Hero (strong heading), StatBar (key metrics), short body text, LogoGrid, PostList, CTA toward become-member.
+
+**Credibility (30 points):**
+The draft demonstrates strong credibility signals:
+- Specific, verifiable stats (2012 in Almedalen, 15 countries in EOS Consortium, 3 member companies)
+- Named real member companies (Redpill Linpro, Dwellir AB, Bitcraze) with actual URLs and logo paths
+- References to real organizations (EOS Consortium, Almedalen, Regeringskansliet)
+- Proper metadata (title, description, lang, template)
+- The stat "3 Medlemsföretag" is honest and transparent, not inflated
+Score: ~27/30 — Very credible, specific, and grounded in real data.
+
+**Accuracy (25 points):**
+- All structural components match the gold standard exactly: Hero ✓, StatBar ✓, body text ✓, LogoGrid ✓, PostList ✓, CTA toward bli-medlem ✓
+- The content appears accurate to what Open Source Sweden actually is
+- Stats seem plausible and specific
+- The CTA correctly points to /bli-medlem
+Score: ~23/25 — Highly accurate match to gold standard structure and content.
+
+**Tone (20 points):**
+- Professional, authoritative, and appropriately aspirational
+- "Vi är rösten för svensk open source" — strong, confident heading
+- Body text is clear and informative without being overly salesy
+- CTA is compelling: "Är ditt företag redo att forma framtidens open source?" — engaging and action-oriented
+- Consistent Swedish language throughout
+- Tone is well-calibrated for a trade organization
+Score: ~18/20 — Excellent tone, professional and engaging.
+
+**Structure (15 points):**
+- Perfectly mirrors the gold standard structure: Hero → StatBar → Brödtext → LogoGrid → PostList → CTA
+- Uses clear section headers with MDX code blocks
+- Frontmatter is complete and well-formed
+- Each component is properly configured with relevant props
+Score: ~14/15 — Near-perfect structural alignment.
+
+**Conciseness (10 points):**
+- Body text is appropriately short (3 sentences, as specified "kort brödtext")
+- Each component is lean and purposeful
+- No redundant sections or padding
+- The CTA body text could arguably be slightly shorter but is still within acceptable range
+Score: ~9/10 — Very concise and focused.
+
+**Total: 27 + 23 + 18 + 14 + 9 = 91/100**
+
+This is an excellent draft that closely matches the gold standard in all dimensions. Minor deductions for: the "3 Medlemsföretag" stat being quite low (could raise credibility questions), and the CTA body being slightly verbose.
