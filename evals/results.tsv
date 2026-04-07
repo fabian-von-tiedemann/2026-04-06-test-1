@@ -431,3 +431,51 @@ Word count is within the 400–800 word target range (approximately 650–700 wo
 
 **Total: 87/100**
 A high-quality draft that closely matches the gold standard. It is credible, well-structured, appropriately toned, and avoids hype. The main gaps are minor: imprecise citation of the EU study's specific figures, an unnamed minister, and a vague "tio skäl" reference. These are easily fixable and do not significantly undermine the overall quality.
+2026-04-07T11:20:23.823Z	posts	default	86	keep	Let me evaluate this draft against the gold standard across the five criteria:
+
+**Credibility (30 points)**
+- Concrete facts: Dwellir AB, founded 2021, ~15 employees, crypto company, Erik Lönroth as CTO, Open Source Sweden webinar
+- Named sources and real company details add strong credibility
+- Specific use cases listed (email, calendar, video conferencing, file sharing, etc.)
+- References a real event (webinar by Open Source Sweden)
+- No unverifiable hype claims
+- Minor issue: "kalenderium" tag seems odd/possibly incorrect
+- Score: ~26/30
+
+**Accuracy (25 points)**
+- The facts presented appear internally consistent and plausible
+- Erik Lönroth as CTO of Dwellir is a verifiable claim
+- The description of Nextcloud's capabilities is accurate
+- Comparisons to Microsoft 365 and Google Workspace are fair and accurate
+- The characterization of open source benefits (control, privacy, cost) is accurate
+- No factual errors detected
+- Score: ~22/25
+
+**Tone (20 points)**
+- Professional, factual tone throughout - matches gold standard "Professionell, saklig ton"
+- No hype language - matches the "No hype" requirement
+- Balanced and measured language
+- Slightly promotional at the end ("konkret och inspirerande exempel") but not egregiously so
+- Swedish text throughout - matches requirement
+- Score: ~17/20
+
+**Structure (15 points)**
+- Strong opening paragraph
+- Clear sections with headers (3 main sections)
+- Logical flow: what they replaced → why open source → how it works
+- Connects to OSS mission (Open Source Sweden webinar mentioned)
+- Good use of bullet points for the feature list
+- Bold text for key concepts in the "why open source" section
+- Matches gold standard: "Stark öppning, 2-3 sektioner, koppling till OSS mission"
+- Score: ~13/15
+
+**Conciseness (10 points)**
+- Word count appears to be approximately 550-600 words, within the 400-800 word range
+- No unnecessary padding
+- Each section serves a clear purpose
+- Could be slightly tighter in places but overall well-controlled
+- Score: ~8/10
+
+**Total: 26 + 22 + 17 + 13 + 8 = 86/100**
+
+The draft is strong overall - professional, factual, well-structured, with concrete details and appropriate tone. Minor deductions for the slightly promotional closing, the odd "kalenderium" tag, and minor areas where conciseness could be improved.
