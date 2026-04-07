@@ -514,3 +514,38 @@ Word count appears to be approximately 550-600 words (Swedish), which falls with
 Total: 81/100
 
 The main deductions are for: slightly promotional tone in places, having 4 sections instead of 2-3, and minor tone deviations from purely factual. Overall this is a strong draft that meets most gold standard criteria well.
+2026-04-07T11:22:54.921Z	posts	default	74	keep	Let me evaluate the draft against the gold standard across the five dimensions:
+
+**Gold Standard Requirements:**
+- Saklig ton (matter-of-fact tone)
+- Konkreta fakta (concrete facts)
+- Svensk text (Swedish text) ✓
+- 400-800 ord (400-800 words)
+- Stark öppning (strong opening)
+- 2-3 sektioner (2-3 sections)
+- Koppling till OSS (connection to OSS/open source software)
+
+**Credibility (30 points):**
+The draft references an EU study from 2021, a 2013 report on lock-in effects, E-legitimationsnämnden (2018), and IT-standardiseringsrådet (2010). These are real-sounding references but lack specific citations (no authors, no URLs, no report titles). The EU study from 2021 on open source is real (the Blind et al. study), and the other references are plausible. However, the lack of precise citations weakens credibility somewhat. The content is generally credible and well-reasoned. Score: ~22/30
+
+**Accuracy (25 points):**
+The EU 2021 study reference is accurate (there is indeed a well-known EU study on open source economics from 2021). The claims about lock-in effects, E-legitimationsnämnden, and IT-standardiseringsrådet are broadly accurate. The 10 points listed are factually sound and well-established arguments. No obvious factual errors. Score: ~20/25
+
+**Tone (20 points):**
+The tone is professional, matter-of-fact (saklig), and appropriate for the target audience (public sector). It avoids being overly promotional while still making a clear argument. The closing is slightly more persuasive/editorial ("Frågan är inte längre om... utan hur snabbt"), which is a minor deviation from a purely neutral tone but acceptable. Score: ~16/20
+
+**Structure (15 points):**
+The gold standard calls for 2-3 sections, but the draft has 5+ sections (Vad säger forskningen?, Inlåsningseffekter, E-legitimationsnämnden, IT-standardiseringsrådet, 10 skäl, Dags att agera). This is a notable deviation from the gold standard's structural requirement. The opening is strong. The structure is logical but more complex than specified. Score: ~9/15
+
+**Conciseness (10 points):**
+Word count appears to be approximately 600-700 words (within the 400-800 range). The content is reasonably concise, though the numbered list of 10 items adds length. The list format is efficient for conveying multiple points. Score: ~7/10
+
+**Total: 22 + 20 + 16 + 9 + 7 = 74/100**
+
+The main weaknesses are:
+1. Too many sections (5-6 vs. the specified 2-3)
+2. Lack of precise citations reduces credibility
+3. The "koppling till OSS" (connection to OSS) is the entire topic, so that's fine
+4. The closing tone is slightly more editorial than purely saklig
+
+Overall this is a solid, well-written piece that mostly meets the gold standard but deviates on structure and could be stronger on citations.
