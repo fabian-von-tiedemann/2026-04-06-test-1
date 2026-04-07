@@ -549,3 +549,39 @@ The main weaknesses are:
 4. The closing tone is slightly more editorial than purely saklig
 
 Overall this is a solid, well-written piece that mostly meets the gold standard but deviates on structure and could be stronger on citations.
+2026-04-07T11:23:40.440Z	posts	default	72	keep	Let me evaluate the draft against the gold standard across the five dimensions:
+
+**Gold Standard Requirements:**
+- Saklig ton (Matter-of-fact/objective tone)
+- Konkreta fakta (Concrete facts)
+- Svensk text (Swedish text)
+- 400-800 ord (400-800 words)
+- Stark öppning (Strong opening)
+- 2-3 sektioner (2-3 sections)
+- Koppling till OSS (Connection to OSS - Open Source Software)
+
+**Credibility (30 points):**
+The draft includes a named CTO (Erik Lönroth) with a direct quote, which adds credibility. It mentions the company was founded in 2021, has ~15 employees, and operates in the crypto space. The quote feels authentic and specific. However, there are no external references, no verifiable data points beyond basic company info, and the quote could be fabricated. The connection to Dwellir as a real company is plausible. I'd give this about 22/30.
+
+**Accuracy (25 points):**
+The factual claims about Nextcloud's capabilities (email, calendar, video conferencing, file sharing, document management) are accurate. The description of open source benefits is accurate. The company details seem consistent. No obvious factual errors. However, some claims are generic (e.g., "automatic file placement after meetings" is not a standard Nextcloud feature out of the box - this might be slightly inaccurate). I'd give about 18/25.
+
+**Tone (20 points):**
+The tone is generally saklig (matter-of-fact) and professional. It's written in first person from Dwellir's perspective, which is appropriate for a case study/blog post. It's not overly promotional or sensationalist. The Swedish is natural and fluent. However, the ending "Hör av dig till oss!" is slightly salesy/promotional, which deviates from a purely saklig tone. I'd give about 15/20.
+
+**Structure (15 points):**
+The gold standard calls for 2-3 sections, but the draft has 4 sections (Vad är Nextcloud?, Varför open source?, Hur det fungerar i praktiken, Slutsats) plus an intro. This exceeds the 2-3 section requirement. The opening is strong. There is a connection to OSS. The structure is logical and well-organized, but doesn't match the specified 2-3 sections. I'd give about 10/15.
+
+**Conciseness (10 points):**
+Word count appears to be approximately 500-600 words (within the 400-800 range). The content is reasonably concise without unnecessary padding. The bullet points and numbered list help with readability. Some sections could be tighter. I'd give about 7/10.
+
+**Total calculation:**
+- Credibility: 22/30
+- Accuracy: 18/25
+- Tone: 15/20
+- Structure: 10/15
+- Conciseness: 7/10
+
+Total: 72/100
+
+The draft is quite good overall - it's in Swedish, has concrete facts, a named source with a quote, covers OSS connection well, and is within word count. The main deductions are for having too many sections (4 vs 2-3), a slightly promotional ending, and some generic claims that may not be fully accurate about Nextcloud's automatic features.
